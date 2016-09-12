@@ -7,3 +7,4 @@ The prints that resulted from this process were the following:
 ![Screenshot 1 Assignment 2: my .bashrc] (HW1_print01.png)
 ![Screenshot 2 Assignment 2: my sucssessful commands using $PUI2016 and the pui2016 alias] (HW1_print02.png)
 
+On Assignment 3 I worked with Danny (df1383) and we discussed the meaning and the correctness of our distributions and since I had started earlier I helped him find the multivariate function for the last part.
