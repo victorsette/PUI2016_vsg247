@@ -19,7 +19,7 @@ data = response.read().decode("utf-8")
 data = json.loads(data)
 
 # counting active buses
-active_buses = len(data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity']) - 2
+active_buses = len(data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
 
 # creating array where the location data is stored 
 location = np.zeros((active_buses,3))
