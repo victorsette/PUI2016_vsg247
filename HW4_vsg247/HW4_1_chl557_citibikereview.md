@@ -11,4 +11,4 @@ The data supports the project. it provides the infromation about age in both man
 
 ### c. Chose an appropriate test to test H0 given the type of data, and the question asked. 
 
-I think Pearson Correlation should be good in this case.
+I think Chi-square test should be good in this case, since it is used to compares observed frequencies to expected frequencies.
