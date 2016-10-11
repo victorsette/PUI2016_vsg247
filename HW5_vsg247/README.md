@@ -33,7 +33,7 @@ $H_a:$ People on diet had a Fat Loss greater than the people who were only on th
 
 - formulae:
 
-$$H_0: FatLoss_{diet+exercise} \leq  FatLoss_{exercise}$
+$H_0: FatLoss_{diet+exercise} \leq  FatLoss_{exercise}$
 
 $H_a: FatLoss_{diet+exercise} > FatLoss_{exercise}$
 
