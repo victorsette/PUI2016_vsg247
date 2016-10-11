@@ -27,17 +27,17 @@ Consideration about the experimental setup: Test sample does the same exercise r
     
 - words:    
 
-$$H_0:$$ People on diet had a Fat Loss lower than or equal to the people who were only on the exercise routine.
+$H_0:$ People on diet had a Fat Loss lower than or equal to the people who were only on the exercise routine.
 
-'$H_a:$' People on diet had a Fat Loss greater than the people who were only on the exercise routine.
+$H_a:$ People on diet had a Fat Loss greater than the people who were only on the exercise routine.
 
 - formulae:
 
-'$$H_0: FatLoss_{diet+exercise}\leq FatLoss_{exercise}$$'
+$$H_0: FatLoss_{diet+exercise} \leq  FatLoss_{exercise}$
 
-$$H_a: FatLoss_{diet+exercise} > FatLoss_{exercise}$$
+$H_a: FatLoss_{diet+exercise} > FatLoss_{exercise}$
 
-$$\alpha = 0.05$$
+$\alpha = 0.05$
 
 ### - Do American trust the president?
 
