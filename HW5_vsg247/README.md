@@ -1,5 +1,5 @@
 ## Assignment 1
-We worked on the citibike data, to analyse which types of distributions would be good fit for the distribution of the riders' age. I analyzed a Normal (KS and AD tests) and a Lognormal (KS and KL tests) distribution.  
+We worked on the citibike data, to analyse which types of distributions would be good fit for the distribution of the riders' age. I analyzed a Normal (KS, AD and KL tests), a Lognormal (KS and KL tests), and a Gumbel-L (KS and KL tests) distribution.  
 
 I worked with Richard, Avikal, Hrafnkell, Kristi, Luis Fernando, Adrian, Geoff and Adriano, discussing the best way to perform our tests and to interpret our results. 
 
@@ -27,17 +27,17 @@ Consideration about the experimental setup: Test sample does the same exercise r
     
 - words:    
 
-$H_0:$ People on diet had a Fat Loss lower than or equal to the people who were only on the exercise routine.
+$$H_0:$$ People on diet had a Fat Loss lower than or equal to the people who were only on the exercise routine.
 
-$H_a:$ People on diet had a Fat Loss greater than the people who were only on the exercise routine.
+'$H_a:$' People on diet had a Fat Loss greater than the people who were only on the exercise routine.
 
 - formulae:
 
-$H_0: FatLoss_{diet+exercise}\leq FatLoss_{exercise}$
+'$$H_0: FatLoss_{diet+exercise}\leq FatLoss_{exercise}$$'
 
-$H_a: FatLoss_{diet+exercise} > FatLoss_{exercise}$
+$$H_a: FatLoss_{diet+exercise} > FatLoss_{exercise}$$
 
-$\alpha = 0.05$
+$$\alpha = 0.05$$
 
 ### - Do American trust the president?
 
