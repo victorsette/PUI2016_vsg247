@@ -1,8 +1,9 @@
-### Plot review by Victor Sette Gripp (vsg247)
+### Plot by Julian Carrillo (jc7344)
+#### review by Victor Sette Gripp (vsg247)
 
 **Plot submitted:**
 
-![HW7_jc7344](HW7_jc7344.png)
+![HW7_jc7344](https://github.com/victorsette/PUI2016_vsg247/blob/master/HW8_vsg247/HW7_jc7344.png)
 
 The Figure above displays per capita water consumption in New York City from 1979 to 2009. According to the data there is a significant decrease in water consumption starting in the year 1991 (38% decrease)
 
