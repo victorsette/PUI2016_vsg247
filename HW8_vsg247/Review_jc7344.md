@@ -2,7 +2,7 @@
 
 **Plot submitted:**
 
-!(https://github.com/victorsette/PUI2016_vsg247/blob/master/HW8_vsg247/HW7_jc7344.png)
+![HW7_jc7344](HW7_jc7344.png)
 
 The Figure above displays per capita water consumption in New York City from 1979 to 2009. According to the data there is a significant decrease in water consumption starting in the year 1991 (38% decrease)
 
@@ -27,7 +27,7 @@ The fact that the scale is not truncated and actually starts from zero makes the
 The presentation was overall very understandable, but there are a couple of improvements that could be done: 
 
 
- - *Axes:* The axes' labels and numbers are a little too small, I recommend increasing the font size of those elements. When doing that, it can be also a good idea to hide some of the year labels and show only multiples of 5 (1980, 1985, 1990, etc), thus, getting rid of unnecessary visual distraction. Besides that, the label of the y axis would be more informative if it included “water consumption”, instead of only “per capita”. 
+ - *Axes:* The axes' labels and numbers are a little too small, I would recommend increasing the font size of those elements. When doing that, it can be also a good idea to hide some of the year labels and show only multiples of 5 (1980, 1985, 1990, etc), thus, getting rid of unnecessary visual distraction. Besides that, the label of the y axis would be more informative if it included “water consumption”, instead of only “per capita”. 
  
  - *Title:* The caption ID ("Figure 1") should actually not be in the plot title and rather in the beginning of the caption itself. For the title, I would recommend also to include the information that the data is from New York City, and perhaps omit the time range, since that information is already on the scale limits and also in the caption.
 
