@@ -4,7 +4,7 @@
 **Plot submitted:**
 
 
-![HW7_fdg224](https://github.com/victorsette/PUI2016_vsg247/blob/master/HW8_vsg247/Review_fdg224.md)
+![HW7_fdg224](https://github.com/victorsette/PUI2016_vsg247/blob/master/HW8_vsg247/Review_fdg224.png)
 
 
 
