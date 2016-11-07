@@ -3,7 +3,7 @@
 
 **Plot submitted:**
 
-![HW7_fdg224](https://github.com/victorsette/PUI2016_vsg247/blob/master/HW8_vsg247/HW7_fdg224.png)
+![HW7_fdg224](https://github.com/victorsette/PUI2016_vsg247/blob/master/HW8_vsg247/HW7_1_fdg224.png)
 
 # Figure 1
 The plot shows, for the *C line*, the rush hour period, every 15 minutes (morning has peek around 9 am and evening around 6 pm) and the mean's trip for every station during the morning and evening rush hours (from 8 to 9:30 am and from 5 to 6:30 pm). While during the morning the terminal stations have more activity (**Retiro** and **Constitución**), the evening period shows more activity in the 4 stations closest to **Retiro**. The *C line* doesn't have a radial design, which connect city center with the most peripheral neighborhoods, but rather a circumferential one, crosing the other subway lines.**Retiro** and **Constitución** are also the interurban train stations, connecting with the North and the South, respectively, of the Greater Buenos Aires (the first is has overall better socioeconomic indicators).
