@@ -28,11 +28,11 @@ The fact that the scale is not truncated and actually starts from zero makes the
 The presentation was overall very understandable, but there are a couple of improvements that could be done: 
 
 
- - *Axes:* The axes' labels and numbers are a little too small, I would recommend increasing the font size of those elements. When doing that, it can be also a good idea to hide some of the year labels and show only multiples of 5 (1980, 1985, 1990, etc), thus, getting rid of unnecessary visual distraction. Besides that, the label of the y axis would be more informative if it included “water consumption”, instead of only “per capita”. 
+ -- *Axes:* The axes' labels and numbers are a little too small, I would recommend increasing the font size of those elements. When doing that, it can be also a good idea to hide some of the year labels and show only multiples of 5 (1980, 1985, 1990, etc), thus, getting rid of unnecessary visual distraction. Besides that, the label of the y axis would be more informative if it included “water consumption”, instead of only “per capita”. 
  
- - *Title:* The caption ID ("Figure 1") should actually not be in the plot title and rather in the beginning of the caption itself. For the title, I would recommend also to include the information that the data is from New York City, and perhaps omit the time range, since that information is already on the scale limits and also in the caption.
+ -- *Title:* The caption ID ("Figure 1") should actually not be in the plot title and rather in the beginning of the caption itself. For the title, I would recommend also to include the information that the data is from New York City, and perhaps omit the time range, since that information is already on the scale limits and also in the caption.
 
 
- - *Caption:* The caption seemed more like a piece of text referring to the plot instead of the actual caption that would anyway be below it. Therefore I would recommend to avoid expressions like “The Figure above displays”, or “According to the data”. Besides that,  it should also start with the caption ID (“Figure 1”). 
+ -- *Caption:* The caption seemed more like a piece of text referring to the plot instead of the actual caption that would anyway be below it. Therefore I would recommend to avoid expressions like “The Figure above displays”, or “According to the data”. Besides that,  it should also start with the caption ID (“Figure 1”). 
 
 
