@@ -5,7 +5,7 @@
 
 
 
-![HW7_fdg224](https://github.com/victorsette/PUI2016_vsg247/blob/master/HW8_vsg247/HW7_1_fdg224.png)
+![HW7_fdg224](HW7_1_fdg224.png)
 
 
 
